@@ -1,0 +1,295 @@
+TGotopMV
+v3
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/wangfuxin/Work/GotopMV/build/Debug-iphonesimulator/GotopMV.app/Info.plist GotopMV/GotopMV-Info.plist
+cProcessPCH /var/folders/Pe/PeoIms25EIuzYkOt3hRLOU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GotopMV-Prefix-fdtxzbvhuazqmogubcncpovmhvto/GotopMV-Prefix.pch.gch GotopMV/GotopMV-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+cProcessPCH++ /var/folders/Pe/PeoIms25EIuzYkOt3hRLOU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GotopMV-Prefix-esqutrbkvmvtwlcdmroudkkshtub/GotopMV-Prefix.pch.gch GotopMV/GotopMV-Prefix.pch normal i386 objective-c++ com.apple.compilers.llvmgcc42
+cCompileC build/GotopMV.build/Debug-iphonesimulator/GotopMV.build/Objects-normal/i386/main.o /Users/wangfuxin/Work/GotopMV/GotopMV/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/GotopMV.build/Debug-iphonesimulator/GotopMV.build/Objects-normal/i386/GotopMVAppDelegate.o /Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D93ED360000000000000110
+t1301540150
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D93DF6900000000002999B0
+t1301536617
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D93DFEA000000000029DA70
+t1301536746
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D93DFDD0000000000001466
+t1301536733
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D93ECBE0000000000000AA1
+t1301540030
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D93ED1B0000000000766870
+t1301540123
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/Users/wangfuxin/Work/GotopMV/GotopMV/GotopMV-Prefix.pch
+c000000004DEE4F150000000000000140
+t1307463445
+s320
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVAppDelegate.h
+c000000004DEE4F15000000000000019A
+t1307463445
+s410
+i<UIKit/UIKit.h>
+
+N/Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVAppDelegate.m
+c000000004DEE4F15000000000000095D
+t1307463445
+s2397
+i"GotopMVAppDelegate.h"
+i"GotopMVViewController.h"
+
+N/Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVViewController.h
+c000000004DEE645C00000000000002ED
+t1307468892
+s749
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i"HikDecoderInterface.h"
+i"hcnetsdk.h"
+
+N/Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVViewController.mm
+c000000004DEE640600000000000014CB
+t1307468806
+s5323
+i"GotopMVViewController.h"
+
+N/Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVViewController.xib
+c000000004DEE5AF20000000000005D97
+t1307466482
+s23959
+
+N/Users/wangfuxin/Work/GotopMV/GotopMV/HikDecoderInterface.h
+c000000004DEE632C0000000000002316
+t1307468588
+s8982
+
+N/Users/wangfuxin/Work/GotopMV/GotopMV/MainWindow.xib
+c000000004DEE62C00000000000002176
+t1307468480
+s8566
+
+N/Users/wangfuxin/Work/GotopMV/GotopMV/en.lproj/InfoPlist.strings
+c000000004DEE4F15000000000000002D
+t1307463445
+s45
+
+N/Users/wangfuxin/Work/GotopMV/GotopMV/hcnetsdk.h
+c000000004DEE62C0000000000002537D
+t1307468480
+s152445
+
+N/Users/wangfuxin/Work/GotopMV/GotopMV/libHCNetSDK_sim_rel.a
+c000000004B711F60000000000032A66C
+t1265704800
+s3319404
+
+N/Users/wangfuxin/Work/GotopMV/GotopMV/libHikSingleDecodeIPhoneSIM.a
+c000000004C8EC58A00000000001FDFD0
+t1284425098
+s2088912
+
+N/Users/wangfuxin/Work/GotopMV/GotopMV/main.m
+c000000004DEE4F15000000000000015E
+t1307463445
+s350
+i<UIKit/UIKit.h>
+
+N/Users/wangfuxin/Work/GotopMV/build/Debug-iphonesimulator/GotopMV.app
+t2
+s0
+
+N/Users/wangfuxin/Work/GotopMV/build/Debug-iphonesimulator/GotopMV.app.dSYM
+t2
+s0
+
+N/Users/wangfuxin/Work/GotopMV/build/Debug-iphonesimulator/GotopMV.app/GotopMV
+t2
+s0
+
+N/Users/wangfuxin/Work/GotopMV/build/Debug-iphonesimulator/GotopMV.app/GotopMVViewController.nib
+t2
+s0
+
+N/Users/wangfuxin/Work/GotopMV/build/Debug-iphonesimulator/GotopMV.app/Info.plist
+t2
+s0
+
+N/Users/wangfuxin/Work/GotopMV/build/Debug-iphonesimulator/GotopMV.app/MainWindow.nib
+t2
+s0
+
+N/Users/wangfuxin/Work/GotopMV/build/Debug-iphonesimulator/GotopMV.app/PkgInfo
+t2
+s0
+
+N/Users/wangfuxin/Work/GotopMV/build/Debug-iphonesimulator/GotopMV.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/wangfuxin/Work/GotopMV/build/GotopMV.build/Debug-iphonesimulator/GotopMV.build/Objects-normal/i386/GotopMV.LinkFileList
+c000000004DEE646D0000000000000172
+t1307468909
+s370
+
+N/Users/wangfuxin/Work/GotopMV/build/GotopMV.build/Debug-iphonesimulator/GotopMV.build/Objects-normal/i386/GotopMVAppDelegate.o
+t2
+s0
+
+N/Users/wangfuxin/Work/GotopMV/build/GotopMV.build/Debug-iphonesimulator/GotopMV.build/Objects-normal/i386/GotopMVViewController.o
+t2
+s0
+
+N/Users/wangfuxin/Work/GotopMV/build/GotopMV.build/Debug-iphonesimulator/GotopMV.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/var/folders/Pe/PeoIms25EIuzYkOt3hRLOU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GotopMV-Prefix-esqutrbkvmvtwlcdmroudkkshtub/GotopMV-Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Pe/PeoIms25EIuzYkOt3hRLOU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GotopMV-Prefix-fdtxzbvhuazqmogubcncpovmhvto/GotopMV-Prefix.pch.gch
+t2
+s0
+
+NGotopMV/GotopMV-Info.plist
+c000000004DEE4F1500000000000004A1
+t1307463445
+s1185
+
+CBuild AST from /Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVAppDelegate.m
+r0
+
+CBuild AST from /Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVViewController.mm
+r0
+
+CBuild AST from /Users/wangfuxin/Work/GotopMV/GotopMV/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies494cdced9b9eb341^9296eaed9b9eb341^---0#1#0#--18"Check dependencies
+
+CCompileC build/GotopMV.build/Debug-iphonesimulator/GotopMV.build/Objects-normal/i386/GotopMVAppDelegate.o /Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s329161710.563824
+e329161710.611915
+r0
+xCompileC
+xbuild/GotopMV.build/Debug-iphonesimulator/GotopMV.build/Objects-normal/i386/GotopMVAppDelegate.o
+x/Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+oIn file included from /Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVViewController.h:11,
+o                 from /Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVAppDelegate.m:11:
+o/Users/wangfuxin/Work/GotopMV/GotopMV/HikDecoderInterface.h:94: error: expected ';', ',' or ')' before '&' token
+o/Users/wangfuxin/Work/GotopMV/GotopMV/HikDecoderInterface.h:164: error: expected ';', ',' or ')' before '&' token
+oIn file included from /Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVViewController.h:13,
+o                 from /Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVAppDelegate.m:11:
+o/Users/wangfuxin/Work/GotopMV/GotopMV/hcnetsdk.h:2857: error: expected ';', ',' or ')' before '=' token
+o/Users/wangfuxin/Work/GotopMV/GotopMV/hcnetsdk.h:2858: error: expected ';', ',' or ')' before '=' token
+o/Users/wangfuxin/Work/GotopMV/GotopMV/hcnetsdk.h:2869: error: expected ';', ',' or ')' before '=' token
+o/Users/wangfuxin/Work/GotopMV/GotopMV/hcnetsdk.h:2873: error: expected ';', ',' or ')' before '=' token
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVAppDelegate.m226c90ee9b9eb341^f99f9cee9b9eb341^-989"In file included from /Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVViewController.h:11,                 from /Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVAppDelegate.m:11:/Users/wangfuxin/Work/GotopMV/GotopMV/HikDecoderInterface.h:94: error: expected ';', ',' or ')' before '&' token/Users/wangfuxin/Work/GotopMV/GotopMV/HikDecoderInterface.h:164: error: expected ';', ',' or ')' before '&' tokenIn file included from /Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVViewController.h:13,                 from /Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVAppDelegate.m:11:/Users/wangfuxin/Work/GotopMV/GotopMV/hcnetsdk.h:2857: error: expected ';', ',' or ')' before '=' token/Users/wangfuxin/Work/GotopMV/GotopMV/hcnetsdk.h:2858: error: expected ';', ',' or ')' before '=' token/Users/wangfuxin/Work/GotopMV/GotopMV/hcnetsdk.h:2869: error: expected ';', ',' or ')' before '=' token/Users/wangfuxin/Work/GotopMV/GotopMV/hcnetsdk.h:2873: error: expected ';', ',' or ')' before '=' token6(21%IDEActivityLogMessage2@41"Expected ';', ',' or ')' before '&' token-329161710#173#113#3(36%IDEActivityLogHeaderInclusionMessage3@80"In file included from /Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVAppDelegate.m-329161710#18446744073709551615#0#-0#-23%DVTTextDocumentLocation4@74"file://localhost/Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVAppDelegate.m0000000000000000^10#18446744073709551615#10#18446744073709551615#18446744073709551615#0#---3@83"In file included from /Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVViewController.h-329161710#18446744073709551615#0#-0#-4@77"file://localhost/Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVViewController.h0000000000000000^10#18446744073709551615#10#18446744073709551615#18446744073709551615#0#---2@104"Expected ';', ',' or ')' before '&' token in /Users/wangfuxin/Work/GotopMV/GotopMV/HikDecoderInterface.h-329161710#18446744073709551615#0#-0#-4@75"file://localhost/Users/wangfuxin/Work/GotopMV/GotopMV/HikDecoderInterface.h0000000000000000^93#18446744073709551615#93#18446744073709551615#18446744073709551615#0#---2#-4@75"file://localhost/Users/wangfuxin/Work/GotopMV/GotopMV/HikDecoderInterface.h0000000000000000^93#18446744073709551615#93#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@41"Expected ';', ',' or ')' before '&' token-329161710#286#114#3(3@80"In file included from /Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVAppDelegate.m-329161710#18446744073709551615#0#-0#-4@74"file://localhost/Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVAppDelegate.m0000000000000000^10#18446744073709551615#10#18446744073709551615#18446744073709551615#0#---3@83"In file included from /Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVViewController.h-329161710#18446744073709551615#0#-0#-4@77"file://localhost/Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVViewController.h0000000000000000^10#18446744073709551615#10#18446744073709551615#18446744073709551615#0#---2@104"Expected ';', ',' or ')' before '&' token in /Users/wangfuxin/Work/GotopMV/GotopMV/HikDecoderInterface.h-329161710#18446744073709551615#0#-0#-4@75"file://localhost/Users/wangfuxin/Work/GotopMV/GotopMV/HikDecoderInterface.h0000000000000000^163#18446744073709551615#163#18446744073709551615#18446744073709551615#0#---2#-4@75"file://localhost/Users/wangfuxin/Work/GotopMV/GotopMV/HikDecoderInterface.h0000000000000000^163#18446744073709551615#163#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@41"Expected ';', ',' or ')' before '=' token-329161710#573#104#3(3@80"In file included from /Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVAppDelegate.m-329161710#18446744073709551615#0#-0#-4@74"file://localhost/Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVAppDelegate.m0000000000000000^10#18446744073709551615#10#18446744073709551615#18446744073709551615#0#---3@83"In file included from /Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVViewController.h-329161710#18446744073709551615#0#-0#-4@77"file://localhost/Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVViewController.h0000000000000000^12#18446744073709551615#12#18446744073709551615#18446744073709551615#0#---2@93"Expected ';', ',' or ')' before '=' token in /Users/wangfuxin/Work/GotopMV/GotopMV/hcnetsdk.h-329161710#18446744073709551615#0#-0#-4@64"file://localhost/Users/wangfuxin/Work/GotopMV/GotopMV/hcnetsdk.h0000000000000000^2856#18446744073709551615#2856#18446744073709551615#18446744073709551615#0#---2#-4@64"file://localhost/Users/wangfuxin/Work/GotopMV/GotopMV/hcnetsdk.h0000000000000000^2856#18446744073709551615#2856#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@41"Expected ';', ',' or ')' before '=' token-329161710#677#104#3(3@80"In file included from /Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVAppDelegate.m-329161710#18446744073709551615#0#-0#-4@74"file://localhost/Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVAppDelegate.m0000000000000000^10#18446744073709551615#10#18446744073709551615#18446744073709551615#0#---3@83"In file included from /Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVViewController.h-329161710#18446744073709551615#0#-0#-4@77"file://localhost/Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVViewController.h0000000000000000^12#18446744073709551615#12#18446744073709551615#18446744073709551615#0#---2@93"Expected ';', ',' or ')' before '=' token in /Users/wangfuxin/Work/GotopMV/GotopMV/hcnetsdk.h-329161710#18446744073709551615#0#-0#-4@64"file://localhost/Users/wangfuxin/Work/GotopMV/GotopMV/hcnetsdk.h0000000000000000^2857#18446744073709551615#2857#18446744073709551615#18446744073709551615#0#---2#-4@64"file://localhost/Users/wangfuxin/Work/GotopMV/GotopMV/hcnetsdk.h0000000000000000^2857#18446744073709551615#2857#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@41"Expected ';', ',' or ')' before '=' token-329161710#781#104#3(3@80"In file included from /Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVAppDelegate.m-329161710#18446744073709551615#0#-0#-4@74"file://localhost/Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVAppDelegate.m0000000000000000^10#18446744073709551615#10#18446744073709551615#18446744073709551615#0#---3@83"In file included from /Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVViewController.h-329161710#18446744073709551615#0#-0#-4@77"file://localhost/Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVViewController.h0000000000000000^12#18446744073709551615#12#18446744073709551615#18446744073709551615#0#---2@93"Expected ';', ',' or ')' before '=' token in /Users/wangfuxin/Work/GotopMV/GotopMV/hcnetsdk.h-329161710#18446744073709551615#0#-0#-4@64"file://localhost/Users/wangfuxin/Work/GotopMV/GotopMV/hcnetsdk.h0000000000000000^2868#18446744073709551615#2868#18446744073709551615#18446744073709551615#0#---2#-4@64"file://localhost/Users/wangfuxin/Work/GotopMV/GotopMV/hcnetsdk.h0000000000000000^2868#18446744073709551615#2868#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@41"Expected ';', ',' or ')' before '=' token-329161710#885#104#3(3@80"In file included from /Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVAppDelegate.m-329161710#18446744073709551615#0#-0#-4@74"file://localhost/Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVAppDelegate.m0000000000000000^10#18446744073709551615#10#18446744073709551615#18446744073709551615#0#---3@83"In file included from /Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVViewController.h-329161710#18446744073709551615#0#-0#-4@77"file://localhost/Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVViewController.h0000000000000000^12#18446744073709551615#12#18446744073709551615#18446744073709551615#0#---2@93"Expected ';', ',' or ')' before '=' token in /Users/wangfuxin/Work/GotopMV/GotopMV/hcnetsdk.h-329161710#18446744073709551615#0#-0#-4@64"file://localhost/Users/wangfuxin/Work/GotopMV/GotopMV/hcnetsdk.h0000000000000000^2872#18446744073709551615#2872#18446744073709551615#18446744073709551615#0#---2#-4@64"file://localhost/Users/wangfuxin/Work/GotopMV/GotopMV/hcnetsdk.h0000000000000000^2872#18446744073709551615#2872#18446744073709551615#18446744073709551615#0#19"Expected * before *--0#0#0#-19%DVTDocumentLocation5@74"file://localhost/Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVAppDelegate.m0000000000000000^2035"CompileC build/GotopMV.build/Debug-iphonesimulator/GotopMV.build/Objects-normal/i386/GotopMVAppDelegate.o GotopMV/GotopMVAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/wangfuxin/Work/GotopMV    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/wangfuxin/Work/GotopMV/build/GotopMV.build/Debug-iphonesimulator/GotopMV.build/GotopMV-generated-files.hmap -I/Users/wangfuxin/Work/GotopMV/build/GotopMV.build/Debug-iphonesimulator/GotopMV.build/GotopMV-own-target-headers.hmap -I/Users/wangfuxin/Work/GotopMV/build/GotopMV.build/Debug-iphonesimulator/GotopMV.build/GotopMV-all-target-headers.hmap -iquote /Users/wangfuxin/Work/GotopMV/build/GotopMV.build/Debug-iphonesimulator/GotopMV.build/GotopMV-project-headers.hmap -I/Users/wangfuxin/Work/GotopMV/build/Debug-iphonesimulator/include -I/Users/wangfuxin/Work/GotopMV/build/GotopMV.build/Debug-iphonesimulator/GotopMV.build/DerivedSources/i386 -I/Users/wangfuxin/Work/GotopMV/build/GotopMV.build/Debug-iphonesimulator/GotopMV.build/DerivedSources -F/Users/wangfuxin/Work/GotopMV/build/Debug-iphonesimulator -include /var/folders/Pe/PeoIms25EIuzYkOt3hRLOU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GotopMV-Prefix-fdtxzbvhuazqmogubcncpovmhvto/GotopMV-Prefix.pch -c /Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVAppDelegate.m -o /Users/wangfuxin/Work/GotopMV/build/GotopMV.build/Debug-iphonesimulator/GotopMV.build/Objects-normal/i386/GotopMVAppDelegate.o
+
+CCompileC build/GotopMV.build/Debug-iphonesimulator/GotopMV.build/Objects-normal/i386/GotopMVViewController.o /Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVViewController.mm normal i386 objective-c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC build/GotopMV.build/Debug-iphonesimulator/GotopMV.build/Objects-normal/i386/main.o /Users/wangfuxin/Work/GotopMV/GotopMV/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s329161710.563802
+e329161710.603757
+r1
+xCompileC
+xbuild/GotopMV.build/Debug-iphonesimulator/GotopMV.build/Objects-normal/i386/main.o
+x/Users/wangfuxin/Work/GotopMV/GotopMV/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Compile /Users/wangfuxin/Work/GotopMV/GotopMV/main.md36a90ee9b9eb341^6d8f9aee9b9eb341^---0#0#0#-19%DVTDocumentLocation2@60"file://localhost/Users/wangfuxin/Work/GotopMV/GotopMV/main.m0000000000000000^1979"CompileC build/GotopMV.build/Debug-iphonesimulator/GotopMV.build/Objects-normal/i386/main.o GotopMV/main.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/wangfuxin/Work/GotopMV    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/wangfuxin/Work/GotopMV/build/GotopMV.build/Debug-iphonesimulator/GotopMV.build/GotopMV-generated-files.hmap -I/Users/wangfuxin/Work/GotopMV/build/GotopMV.build/Debug-iphonesimulator/GotopMV.build/GotopMV-own-target-headers.hmap -I/Users/wangfuxin/Work/GotopMV/build/GotopMV.build/Debug-iphonesimulator/GotopMV.build/GotopMV-all-target-headers.hmap -iquote /Users/wangfuxin/Work/GotopMV/build/GotopMV.build/Debug-iphonesimulator/GotopMV.build/GotopMV-project-headers.hmap -I/Users/wangfuxin/Work/GotopMV/build/Debug-iphonesimulator/include -I/Users/wangfuxin/Work/GotopMV/build/GotopMV.build/Debug-iphonesimulator/GotopMV.build/DerivedSources/i386 -I/Users/wangfuxin/Work/GotopMV/build/GotopMV.build/Debug-iphonesimulator/GotopMV.build/DerivedSources -F/Users/wangfuxin/Work/GotopMV/build/Debug-iphonesimulator -include /var/folders/Pe/PeoIms25EIuzYkOt3hRLOU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GotopMV-Prefix-fdtxzbvhuazqmogubcncpovmhvto/GotopMV-Prefix.pch -c /Users/wangfuxin/Work/GotopMV/GotopMV/main.m -o /Users/wangfuxin/Work/GotopMV/build/GotopMV.build/Debug-iphonesimulator/GotopMV.build/Objects-normal/i386/main.o
+
+CCompileXIB /Users/wangfuxin/Work/GotopMV/GotopMV/GotopMVViewController.xib
+r0
+
+CCompileXIB /Users/wangfuxin/Work/GotopMV/GotopMV/MainWindow.xib
+r0
+
+CCopyStringsFile /Users/wangfuxin/Work/GotopMV/build/Debug-iphonesimulator/GotopMV.app/en.lproj/InfoPlist.strings GotopMV/en.lproj/InfoPlist.strings
+r0
+
+CGenerateDSYMFile /Users/wangfuxin/Work/GotopMV/build/Debug-iphonesimulator/GotopMV.app.dSYM /Users/wangfuxin/Work/GotopMV/build/Debug-iphonesimulator/GotopMV.app/GotopMV
+r0
+
+CLd /Users/wangfuxin/Work/GotopMV/build/Debug-iphonesimulator/GotopMV.app/GotopMV normal i386
+r0
+
+CProcessInfoPlistFile /Users/wangfuxin/Work/GotopMV/build/Debug-iphonesimulator/GotopMV.app/Info.plist GotopMV/GotopMV-Info.plist
+s329161709.922169
+e329161709.926529
+r1
+xProcessInfoPlistFile
+x/Users/wangfuxin/Work/GotopMV/build/Debug-iphonesimulator/GotopMV.app/Info.plist
+xGotopMV/GotopMV-Info.plist
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection34"Process GotopMV/GotopMV-Info.plist8d25eced9b9eb341^703eeded9b9eb341^---0#0#0#-19%DVTDocumentLocation2@72"file://localhost/Users/wangfuxin/Work/GotopMV/GotopMV/GotopMV-Info.plist0000000000000000^559"ProcessInfoPlistFile build/Debug-iphonesimulator/GotopMV.app/Info.plist GotopMV/GotopMV-Info.plist    cd /Users/wangfuxin/Work/GotopMV    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility GotopMV/GotopMV-Info.plist -genpkginfo /Users/wangfuxin/Work/GotopMV/build/Debug-iphonesimulator/GotopMV.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/wangfuxin/Work/GotopMV/build/Debug-iphonesimulator/GotopMV.app/Info.plist
+
+CProcessPCH /Users/wangfuxin/Library/Developer/Xcode/DerivedData/GotopMV-hcmvkaezgzqusmbmmjjwqvdptiqc/Index/PrecompiledHeaders/GotopMV-Prefix-bzdvpxxfftbzpdhgumrtmxtolaun_ast/GotopMV-Prefix.pch.pth GotopMV/GotopMV-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/Pe/PeoIms25EIuzYkOt3hRLOU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GotopMV-Prefix-fdtxzbvhuazqmogubcncpovmhvto/GotopMV-Prefix.pch.gch GotopMV/GotopMV-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+s329161709.927940
+e329161710.563656
+r1
+xProcessPCH
+x/var/folders/Pe/PeoIms25EIuzYkOt3hRLOU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GotopMV-Prefix-fdtxzbvhuazqmogubcncpovmhvto/GotopMV-Prefix.pch.gch
+xGotopMV/GotopMV-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile GotopMV/GotopMV-Prefix.pchf8aaeded9b9eb341^2b4b90ee9b9eb341^---0#0#0#-19%DVTDocumentLocation2@72"file://localhost/Users/wangfuxin/Work/GotopMV/GotopMV/GotopMV-Prefix.pch0000000000000000^1976"ProcessPCH /var/folders/Pe/PeoIms25EIuzYkOt3hRLOU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GotopMV-Prefix-fdtxzbvhuazqmogubcncpovmhvto/GotopMV-Prefix.pch.gch GotopMV/GotopMV-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/wangfuxin/Work/GotopMV    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/wangfuxin/Work/GotopMV/build/GotopMV.build/Debug-iphonesimulator/GotopMV.build/GotopMV-generated-files.hmap -I/Users/wangfuxin/Work/GotopMV/build/GotopMV.build/Debug-iphonesimulator/GotopMV.build/GotopMV-own-target-headers.hmap -I/Users/wangfuxin/Work/GotopMV/build/GotopMV.build/Debug-iphonesimulator/GotopMV.build/GotopMV-all-target-headers.hmap -iquote /Users/wangfuxin/Work/GotopMV/build/GotopMV.build/Debug-iphonesimulator/GotopMV.build/GotopMV-project-headers.hmap -I/Users/wangfuxin/Work/GotopMV/build/Debug-iphonesimulator/include -I/Users/wangfuxin/Work/GotopMV/build/GotopMV.build/Debug-iphonesimulator/GotopMV.build/DerivedSources/i386 -I/Users/wangfuxin/Work/GotopMV/build/GotopMV.build/Debug-iphonesimulator/GotopMV.build/DerivedSources -F/Users/wangfuxin/Work/GotopMV/build/Debug-iphonesimulator -c /Users/wangfuxin/Work/GotopMV/GotopMV/GotopMV-Prefix.pch -o /var/folders/Pe/PeoIms25EIuzYkOt3hRLOU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GotopMV-Prefix-fdtxzbvhuazqmogubcncpovmhvto/GotopMV-Prefix.pch.gch
+
+CProcessPCH++ /Users/wangfuxin/Library/Developer/Xcode/DerivedData/GotopMV-hcmvkaezgzqusmbmmjjwqvdptiqc/Index/PrecompiledHeaders/GotopMV-Prefix-adrnhihgncvmltcejneenkhxxrcz_ast/GotopMV-Prefix.pch.pth GotopMV/GotopMV-Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /var/folders/Pe/PeoIms25EIuzYkOt3hRLOU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GotopMV-Prefix-esqutrbkvmvtwlcdmroudkkshtub/GotopMV-Prefix.pch.gch GotopMV/GotopMV-Prefix.pch normal i386 objective-c++ com.apple.compilers.llvmgcc42
+s329161709.927946
+e329161710.812115
+r1
+xProcessPCH++
+x/var/folders/Pe/PeoIms25EIuzYkOt3hRLOU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GotopMV-Prefix-esqutrbkvmvtwlcdmroudkkshtub/GotopMV-Prefix.pch.gch
+xGotopMV/GotopMV-Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile GotopMV/GotopMV-Prefix.pch0ea2eded9b9eb341^64e9cfee9b9eb341^---0#0#0#-19%DVTDocumentLocation2@72"file://localhost/Users/wangfuxin/Work/GotopMV/GotopMV/GotopMV-Prefix.pch0000000000000000^1999"ProcessPCH++ /var/folders/Pe/PeoIms25EIuzYkOt3hRLOU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GotopMV-Prefix-esqutrbkvmvtwlcdmroudkkshtub/GotopMV-Prefix.pch.gch GotopMV/GotopMV-Prefix.pch normal i386 objective-c++ com.apple.compilers.llvmgcc42    cd /Users/wangfuxin/Work/GotopMV    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility-inlines-hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/wangfuxin/Work/GotopMV/build/GotopMV.build/Debug-iphonesimulator/GotopMV.build/GotopMV-generated-files.hmap -I/Users/wangfuxin/Work/GotopMV/build/GotopMV.build/Debug-iphonesimulator/GotopMV.build/GotopMV-own-target-headers.hmap -I/Users/wangfuxin/Work/GotopMV/build/GotopMV.build/Debug-iphonesimulator/GotopMV.build/GotopMV-all-target-headers.hmap -iquote /Users/wangfuxin/Work/GotopMV/build/GotopMV.build/Debug-iphonesimulator/GotopMV.build/GotopMV-project-headers.hmap -I/Users/wangfuxin/Work/GotopMV/build/Debug-iphonesimulator/include -I/Users/wangfuxin/Work/GotopMV/build/GotopMV.build/Debug-iphonesimulator/GotopMV.build/DerivedSources/i386 -I/Users/wangfuxin/Work/GotopMV/build/GotopMV.build/Debug-iphonesimulator/GotopMV.build/DerivedSources -F/Users/wangfuxin/Work/GotopMV/build/Debug-iphonesimulator -c /Users/wangfuxin/Work/GotopMV/GotopMV/GotopMV-Prefix.pch -o /var/folders/Pe/PeoIms25EIuzYkOt3hRLOU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GotopMV-Prefix-esqutrbkvmvtwlcdmroudkkshtub/GotopMV-Prefix.pch.gch
+
+CTouch /Users/wangfuxin/Work/GotopMV/build/Debug-iphonesimulator/GotopMV.app
+r0
+

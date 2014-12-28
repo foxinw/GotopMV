@@ -7,54 +7,38 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D14EFBA1139E991400E98ACC /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = D14EFBA2139E991400E98ACC /* MainWindow.xib */; };
+		D14EFBA3139E992100E98ACC /* GotopMVViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D14EFBA4139E992100E98ACC /* GotopMVViewController.xib */; };
 		D1D58A82139E869500463AF5 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D1D58A81139E869500463AF5 /* UIKit.framework */; };
 		D1D58A84139E869500463AF5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D1D58A83139E869500463AF5 /* Foundation.framework */; };
 		D1D58A86139E869500463AF5 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D1D58A85139E869500463AF5 /* CoreGraphics.framework */; };
 		D1D58A8C139E869500463AF5 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = D1D58A8A139E869500463AF5 /* InfoPlist.strings */; };
 		D1D58A8F139E869500463AF5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D1D58A8E139E869500463AF5 /* main.m */; };
 		D1D58A92139E869500463AF5 /* GotopMVAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D1D58A91139E869500463AF5 /* GotopMVAppDelegate.m */; };
-		D1D58A95139E869500463AF5 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = D1D58A93139E869500463AF5 /* MainWindow.xib */; };
-		D1D58A98139E869500463AF5 /* GotopMVViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D1D58A97139E869500463AF5 /* GotopMVViewController.m */; };
-		D1D58A9B139E869500463AF5 /* GotopMVViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D1D58A99139E869500463AF5 /* GotopMVViewController.xib */; };
-		D1D58AA2139E869500463AF5 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D1D58A81139E869500463AF5 /* UIKit.framework */; };
-		D1D58AA3139E869500463AF5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D1D58A83139E869500463AF5 /* Foundation.framework */; };
-		D1D58AA4139E869500463AF5 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D1D58A85139E869500463AF5 /* CoreGraphics.framework */; };
-		D1D58AAC139E869500463AF5 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = D1D58AAA139E869500463AF5 /* InfoPlist.strings */; };
-		D1D58AAF139E869500463AF5 /* GotopMVTests.h in Resources */ = {isa = PBXBuildFile; fileRef = D1D58AAE139E869500463AF5 /* GotopMVTests.h */; };
-		D1D58AB1139E869500463AF5 /* GotopMVTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D1D58AB0139E869500463AF5 /* GotopMVTests.m */; };
+		D1D58A98139E869500463AF5 /* GotopMVViewController.mm in Sources */ = {isa = PBXBuildFile; fileRef = D1D58A97139E869500463AF5 /* GotopMVViewController.mm */; };
+		D1D58ABE139E86C400463AF5 /* libHikSingleDecodeIPhoneSIM.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D1D58ABA139E86C400463AF5 /* libHikSingleDecodeIPhoneSIM.a */; };
+		D1D58ABF139E86C400463AF5 /* libHCNetSDK_sim_rel.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D1D58ABC139E86C400463AF5 /* libHCNetSDK_sim_rel.a */; };
 /* End PBXBuildFile section */
 
-/* Begin PBXContainerItemProxy section */
-		D1D58AA5139E869500463AF5 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D1D58A74139E869500463AF5 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = D1D58A7C139E869500463AF5;
-			remoteInfo = GotopMV;
-		};
-/* End PBXContainerItemProxy section */
-
 /* Begin PBXFileReference section */
+		D14EFBA2139E991400E98ACC /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		D14EFBA4139E992100E98ACC /* GotopMVViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = GotopMVViewController.xib; sourceTree = "<group>"; };
 		D1D58A7D139E869500463AF5 /* GotopMV.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GotopMV.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D1D58A81139E869500463AF5 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		D1D58A83139E869500463AF5 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		D1D58A85139E869500463AF5 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		D1D58A89139E869500463AF5 /* GotopMV-Info.plist */ = {isa = PBXFileReference; path = "GotopMV-Info.plist"; sourceTree = "<group>"; };
+		D1D58A89139E869500463AF5 /* GotopMV-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GotopMV-Info.plist"; sourceTree = "<group>"; };
 		D1D58A8B139E869500463AF5 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		D1D58A8D139E869500463AF5 /* GotopMV-Prefix.pch */ = {isa = PBXFileReference; path = "GotopMV-Prefix.pch"; sourceTree = "<group>"; };
+		D1D58A8D139E869500463AF5 /* GotopMV-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "GotopMV-Prefix.pch"; sourceTree = "<group>"; };
 		D1D58A8E139E869500463AF5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		D1D58A90139E869500463AF5 /* GotopMVAppDelegate.h */ = {isa = PBXFileReference; path = GotopMVAppDelegate.h; sourceTree = "<group>"; };
+		D1D58A90139E869500463AF5 /* GotopMVAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GotopMVAppDelegate.h; sourceTree = "<group>"; };
 		D1D58A91139E869500463AF5 /* GotopMVAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GotopMVAppDelegate.m; sourceTree = "<group>"; };
-		D1D58A94139E869500463AF5 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
-		D1D58A96139E869500463AF5 /* GotopMVViewController.h */ = {isa = PBXFileReference; path = GotopMVViewController.h; sourceTree = "<group>"; };
-		D1D58A97139E869500463AF5 /* GotopMVViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GotopMVViewController.m; sourceTree = "<group>"; };
-		D1D58A9A139E869500463AF5 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/GotopMVViewController.xib; sourceTree = "<group>"; };
-		D1D58AA1139E869500463AF5 /* GotopMVTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GotopMVTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
-		D1D58AA9139E869500463AF5 /* GotopMVTests-Info.plist */ = {isa = PBXFileReference; path = "GotopMVTests-Info.plist"; sourceTree = "<group>"; };
-		D1D58AAB139E869500463AF5 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		D1D58AAD139E869500463AF5 /* GotopMVTests-Prefix.pch */ = {isa = PBXFileReference; path = "GotopMVTests-Prefix.pch"; sourceTree = "<group>"; };
-		D1D58AAE139E869500463AF5 /* GotopMVTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GotopMVTests.h; sourceTree = "<group>"; };
-		D1D58AB0139E869500463AF5 /* GotopMVTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GotopMVTests.m; sourceTree = "<group>"; };
+		D1D58A96139E869500463AF5 /* GotopMVViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GotopMVViewController.h; sourceTree = "<group>"; };
+		D1D58A97139E869500463AF5 /* GotopMVViewController.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; path = GotopMVViewController.mm; sourceTree = "<group>"; };
+		D1D58ABA139E86C400463AF5 /* libHikSingleDecodeIPhoneSIM.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libHikSingleDecodeIPhoneSIM.a; sourceTree = "<group>"; };
+		D1D58ABB139E86C400463AF5 /* HikDecoderInterface.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.h; fileEncoding = 4; path = HikDecoderInterface.h; sourceTree = "<group>"; };
+		D1D58ABC139E86C400463AF5 /* libHCNetSDK_sim_rel.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libHCNetSDK_sim_rel.a; sourceTree = "<group>"; };
+		D1D58ABD139E86C400463AF5 /* hcnetsdk.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.h; fileEncoding = 2147484705; path = hcnetsdk.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,16 +49,8 @@
 				D1D58A82139E869500463AF5 /* UIKit.framework in Frameworks */,
 				D1D58A84139E869500463AF5 /* Foundation.framework in Frameworks */,
 				D1D58A86139E869500463AF5 /* CoreGraphics.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		D1D58A9D139E869500463AF5 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				D1D58AA2139E869500463AF5 /* UIKit.framework in Frameworks */,
-				D1D58AA3139E869500463AF5 /* Foundation.framework in Frameworks */,
-				D1D58AA4139E869500463AF5 /* CoreGraphics.framework in Frameworks */,
+				D1D58ABE139E86C400463AF5 /* libHikSingleDecodeIPhoneSIM.a in Frameworks */,
+				D1D58ABF139E86C400463AF5 /* libHCNetSDK_sim_rel.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -85,7 +61,6 @@
 			isa = PBXGroup;
 			children = (
 				D1D58A87139E869500463AF5 /* GotopMV */,
-				D1D58AA7139E869500463AF5 /* GotopMVTests */,
 				D1D58A80139E869500463AF5 /* Frameworks */,
 				D1D58A7E139E869500463AF5 /* Products */,
 			);
@@ -95,7 +70,6 @@
 			isa = PBXGroup;
 			children = (
 				D1D58A7D139E869500463AF5 /* GotopMV.app */,
-				D1D58AA1139E869500463AF5 /* GotopMVTests.octest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -115,10 +89,14 @@
 			children = (
 				D1D58A90139E869500463AF5 /* GotopMVAppDelegate.h */,
 				D1D58A91139E869500463AF5 /* GotopMVAppDelegate.m */,
-				D1D58A93139E869500463AF5 /* MainWindow.xib */,
+				D14EFBA2139E991400E98ACC /* MainWindow.xib */,
 				D1D58A96139E869500463AF5 /* GotopMVViewController.h */,
-				D1D58A97139E869500463AF5 /* GotopMVViewController.m */,
-				D1D58A99139E869500463AF5 /* GotopMVViewController.xib */,
+				D1D58A97139E869500463AF5 /* GotopMVViewController.mm */,
+				D1D58ABA139E86C400463AF5 /* libHikSingleDecodeIPhoneSIM.a */,
+				D1D58ABB139E86C400463AF5 /* HikDecoderInterface.h */,
+				D1D58ABC139E86C400463AF5 /* libHCNetSDK_sim_rel.a */,
+				D1D58ABD139E86C400463AF5 /* hcnetsdk.h */,
+				D14EFBA4139E992100E98ACC /* GotopMVViewController.xib */,
 				D1D58A88139E869500463AF5 /* Supporting Files */,
 			);
 			path = GotopMV;
@@ -131,26 +109,6 @@
 				D1D58A8A139E869500463AF5 /* InfoPlist.strings */,
 				D1D58A8D139E869500463AF5 /* GotopMV-Prefix.pch */,
 				D1D58A8E139E869500463AF5 /* main.m */,
-			);
-			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
-		D1D58AA7139E869500463AF5 /* GotopMVTests */ = {
-			isa = PBXGroup;
-			children = (
-				D1D58AAE139E869500463AF5 /* GotopMVTests.h */,
-				D1D58AB0139E869500463AF5 /* GotopMVTests.m */,
-				D1D58AA8139E869500463AF5 /* Supporting Files */,
-			);
-			path = GotopMVTests;
-			sourceTree = "<group>";
-		};
-		D1D58AA8139E869500463AF5 /* Supporting Files */ = {
-			isa = PBXGroup;
-			children = (
-				D1D58AA9139E869500463AF5 /* GotopMVTests-Info.plist */,
-				D1D58AAA139E869500463AF5 /* InfoPlist.strings */,
-				D1D58AAD139E869500463AF5 /* GotopMVTests-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -175,25 +133,6 @@
 			productReference = D1D58A7D139E869500463AF5 /* GotopMV.app */;
 			productType = "com.apple.product-type.application";
 		};
-		D1D58AA0139E869500463AF5 /* GotopMVTests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = D1D58AB7139E869500463AF5 /* Build configuration list for PBXNativeTarget "GotopMVTests" */;
-			buildPhases = (
-				D1D58A9C139E869500463AF5 /* Sources */,
-				D1D58A9D139E869500463AF5 /* Frameworks */,
-				D1D58A9E139E869500463AF5 /* Resources */,
-				D1D58A9F139E869500463AF5 /* ShellScript */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				D1D58AA6139E869500463AF5 /* PBXTargetDependency */,
-			);
-			name = GotopMVTests;
-			productName = GotopMVTests;
-			productReference = D1D58AA1139E869500463AF5 /* GotopMVTests.octest */;
-			productType = "com.apple.product-type.bundle";
-		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -215,7 +154,6 @@
 			projectRoot = "";
 			targets = (
 				D1D58A7C139E869500463AF5 /* GotopMV */,
-				D1D58AA0139E869500463AF5 /* GotopMVTests */,
 			);
 		};
 /* End PBXProject section */
@@ -226,37 +164,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				D1D58A8C139E869500463AF5 /* InfoPlist.strings in Resources */,
-				D1D58A95139E869500463AF5 /* MainWindow.xib in Resources */,
-				D1D58A9B139E869500463AF5 /* GotopMVViewController.xib in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		D1D58A9E139E869500463AF5 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				D1D58AAC139E869500463AF5 /* InfoPlist.strings in Resources */,
-				D1D58AAF139E869500463AF5 /* GotopMVTests.h in Resources */,
+				D14EFBA1139E991400E98ACC /* MainWindow.xib in Resources */,
+				D14EFBA3139E992100E98ACC /* GotopMVViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
-
-/* Begin PBXShellScriptBuildPhase section */
-		D1D58A9F139E869500463AF5 /* ShellScript */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "# Run the unit tests in this test bundle.\n\"${SYSTEM_DEVELOPER_DIR}/Tools/RunUnitTests\"\n";
-		};
-/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		D1D58A79139E869500463AF5 /* Sources */ = {
@@ -265,57 +178,17 @@
 			files = (
 				D1D58A8F139E869500463AF5 /* main.m in Sources */,
 				D1D58A92139E869500463AF5 /* GotopMVAppDelegate.m in Sources */,
-				D1D58A98139E869500463AF5 /* GotopMVViewController.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		D1D58A9C139E869500463AF5 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				D1D58AB1139E869500463AF5 /* GotopMVTests.m in Sources */,
+				D1D58A98139E869500463AF5 /* GotopMVViewController.mm in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXTargetDependency section */
-		D1D58AA6139E869500463AF5 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = D1D58A7C139E869500463AF5 /* GotopMV */;
-			targetProxy = D1D58AA5139E869500463AF5 /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
 		D1D58A8A139E869500463AF5 /* InfoPlist.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
 				D1D58A8B139E869500463AF5 /* en */,
-			);
-			name = InfoPlist.strings;
-			sourceTree = "<group>";
-		};
-		D1D58A93139E869500463AF5 /* MainWindow.xib */ = {
-			isa = PBXVariantGroup;
-			children = (
-				D1D58A94139E869500463AF5 /* en */,
-			);
-			name = MainWindow.xib;
-			sourceTree = "<group>";
-		};
-		D1D58A99139E869500463AF5 /* GotopMVViewController.xib */ = {
-			isa = PBXVariantGroup;
-			children = (
-				D1D58A9A139E869500463AF5 /* en */,
-			);
-			name = GotopMVViewController.xib;
-			sourceTree = "<group>";
-		};
-		D1D58AAA139E869500463AF5 /* InfoPlist.strings */ = {
-			isa = PBXVariantGroup;
-			children = (
-				D1D58AAB139E869500463AF5 /* en */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
@@ -364,7 +237,13 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "GotopMV/GotopMV-Prefix.pch";
 				INFOPLIST_FILE = "GotopMV/GotopMV-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 3.0;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/GotopMV\"",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos3.0;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -377,53 +256,15 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "GotopMV/GotopMV-Prefix.pch";
 				INFOPLIST_FILE = "GotopMV/GotopMV-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 3.0;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/GotopMV\"",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos3.0;
 				VALIDATE_PRODUCT = YES;
 				WRAPPER_EXTENSION = app;
-			};
-			name = Release;
-		};
-		D1D58AB8139E869500463AF5 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/GotopMV.app/GotopMV";
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(SDKROOT)/Developer/Library/Frameworks",
-					"$(DEVELOPER_LIBRARY_DIR)/Frameworks",
-				);
-				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "GotopMVTests/GotopMVTests-Prefix.pch";
-				INFOPLIST_FILE = "GotopMVTests/GotopMVTests-Info.plist";
-				OTHER_LDFLAGS = (
-					"-framework",
-					SenTestingKit,
-				);
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUNDLE_LOADER)";
-				WRAPPER_EXTENSION = octest;
-			};
-			name = Debug;
-		};
-		D1D58AB9139E869500463AF5 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/GotopMV.app/GotopMV";
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(SDKROOT)/Developer/Library/Frameworks",
-					"$(DEVELOPER_LIBRARY_DIR)/Frameworks",
-				);
-				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "GotopMVTests/GotopMVTests-Prefix.pch";
-				INFOPLIST_FILE = "GotopMVTests/GotopMVTests-Info.plist";
-				OTHER_LDFLAGS = (
-					"-framework",
-					SenTestingKit,
-				);
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUNDLE_LOADER)";
-				WRAPPER_EXTENSION = octest;
 			};
 			name = Release;
 		};
@@ -446,14 +287,7 @@
 				D1D58AB6139E869500463AF5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-		};
-		D1D58AB7139E869500463AF5 /* Build configuration list for PBXNativeTarget "GotopMVTests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				D1D58AB8139E869500463AF5 /* Debug */,
-				D1D58AB9139E869500463AF5 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

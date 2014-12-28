@@ -7,7 +7,7 @@
 //
 
 #import "GotopMVViewController.h"
-#include <stdio.h>
+
 
 #define MAX_BUF_SIZE 6000
 //FILE * fp_yuv = fopen("/test.yuv", "wb");
@@ -59,6 +59,7 @@ void CALLBACK AlarmMsgCallBack(LONG lCommand, NET_DVR_ALARMER *pAlarmer, char *p
     [ip release];
     [port release];
     [viewVideo release];
+    [m_Label release];
     [super dealloc];
 }
 
@@ -88,6 +89,8 @@ void CALLBACK AlarmMsgCallBack(LONG lCommand, NET_DVR_ALARMER *pAlarmer, char *p
     [port release];
     port = nil;
     [self setViewVideo:nil];
+    [m_Label release];
+    m_Label = nil;
     [super viewDidUnload];
     // Release any retained subviews of the main view.
     // e.g. self.myOutlet = nil;
